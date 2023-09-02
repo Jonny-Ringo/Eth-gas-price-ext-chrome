@@ -1,0 +1,26 @@
+body {
+  width: 50px; /* Adjust the width to fit the content */
+  height: 30px; /* Adjust the height to fit the content */
+  padding: 5px; /* Add padding to create space around the box */
+  font-family: Arial, sans-serif; /* Use a common font for better cross-browser compatibility */
+  display: flex;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc; /* Add a border for the neat box appearance */
+  border-radius: 6px; /* Add rounded corners */
+  background-color: #6601a8; /* Add a background color */
+}
+
+/* Style the gas price element */
+#gas-price {
+  font-size: 12px; /* Increase the font size */
+  font-weight: bold; /* Make the text bold */
+  margin: 5px; /* Add margin to all sides of the text */
+  white-space: nowrap; /* Prevent line breaks */
+}
+
+
+
+
+  
