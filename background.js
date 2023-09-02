@@ -1,4 +1,4 @@
-const apiKey = "GWQHH2ZGFJC1PY1BFC6KEV3XK8RSWQTW48";
+const apiKey = "YOUR_KEY_HERE";
 
 async function fetchGasPrice() {
   try {
