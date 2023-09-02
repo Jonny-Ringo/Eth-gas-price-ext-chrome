@@ -5,7 +5,7 @@ Takes less than 5 minutes to setup!
 
 1.Download this FUll repo into a local folder on your PC.
 
-2.Sign-in to etherscan(or create a profiel, it takes seconds).
+2.Sign-in to etherscan(or create a profile, it takes seconds).
 
 3.On your profile page, create a free API key.
 
