@@ -17,4 +17,4 @@ Takes less than 5 minutes to setup!
    
 8. Click the "Load Unpacked" button at the top left, and upload the repo you downloaded with your API key.
    
-10. Finally, toggle the loaed extension on, and you now have a working gas price extension in Chrome!
+10. Finally, toggle the loaded extension on, and you now have a working gas price extension in Chrome!
